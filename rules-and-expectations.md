@@ -14,7 +14,7 @@ Donations: Donations from external contributors will be distributed to persons c
 
 ### Minimum Expectations
 
-**You are expected to complete EVERY assignment that is specifically assigned to you.** It is your responsibility to request help or a deadline extension for a **valid reason**. 
+**You are expected to complete EVERY assignment that is specifically assigned to you.** It is your responsibility to request help or a deadline extension for a **valid reason**.
 
 You are also expected to contribute to your team and help others with any other problems the may have.
 
@@ -67,6 +67,4 @@ Learn to be autonomous in your work, instead of relying on leads for directions 
 * Experience working in a team, with several teams, and/or in cross-functional teams
 
 Please make yourself familiar with the following, should your role require it: Github Push/Pull/Merge with Git Client such as GitKraken \(ALL\), Travis Continuous Deployment \(CI\), Telegram, Discord, AWS API Gateway \(DevOps and API\), AWS Lambda \(DevOps and API\), AWS Certificate Manager \(DevOps\), AWS CloudFront Edge Deployment \(DevOps\), AWS RDS \(DevOps and Database\), Auth0 logins \(DevOps and Login\), NodeJS \(ALL\), Vue \(Frontend\), AngularJS \(Frontend\), HTML \(Frontend\), CSS \(Frontend\), REST API Framework \(API\), Citation Styles Language \(ALL\) \([https://github.com/citation-style-language/styles](https://github.com/citation-style-language/styles)\), etc
-
-
 

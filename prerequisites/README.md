@@ -23,5 +23,3 @@ You'll need to talk with your team.
 | [Join the server](https://discord.gg/maCbhq7) | Join the group chat |
 | Click the link above. | Send us your username. |
 
-
-
